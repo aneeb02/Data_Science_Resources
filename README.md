@@ -14,6 +14,12 @@ Challenges:
 - need to practice numpy more
 - start prompt engineering side by side
 
+Week 3:
+- Started scraping
+- scraped basic sites with bs4
+- scraped paginated site
+- Mini Project: Scrape PakWheels cars data and analyze
+
 
 
 
