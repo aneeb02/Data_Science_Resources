@@ -44,6 +44,25 @@ def parse_listing_name(name):
             "Variant": ""
         }
         
+def parse_price(text):
+    try:
+        parts = text.replace(",", "").split()
+        amount = float(parts[1])
+        unit = parts[2].lower()
+
+        if "lac" in unit:
+            return int(amount * 100000)
+        elif "crore" in unit:
+            return int(amount * 100000000)
+        else:
+            return int(amount)
+    except:
+        return "Call"
+      
+def parse_mileage(text):
+    parts = text.replace(",", "").split()
+    return int(parts[0])
+        
 def main():
           
     options = Options()
@@ -58,7 +77,7 @@ def main():
     listings = []
 
     # Get listings for first 5 pages
-    for page in range(1,6):
+    for page in range(1,11):
         url = f'https://www.pakwheels.com/used-cars/search/-/?page={page}'
         driver.get(url)
 
@@ -81,9 +100,15 @@ def main():
 
                 # Get price
                 try:
-                    price = car.find_element(By.CLASS_NAME, "price-details").text.strip()
+                    price_text = car.find_element(By.CLASS_NAME, "price-details").text.strip()
+                    price = parse_price(price_text)
+                    # price = car.find_element(By.CLASS_NAME, "price-details").text.strip()
+                    # if "lacs" in price:
+                    #   price = int(price[1]*100000)
+                    # else:
+                    #   price = int(price[1]*10000000)
                 except:
-                    price = "Unknown"
+                    price = "Call"
 
                 # Get location
                 try:
@@ -94,14 +119,19 @@ def main():
 
                 # Get mileage
                 try:
-                  mileage_ul = car.find_element(By.CLASS_NAME, "search-vehicle-info-2")
-                  mileage_items = mileage_ul.find_elements(By.TAG_NAME, "li")
-                  
-                  mileage = ""
-                  for li in mileage_items:
-                      if "km" in li.text:
-                          mileage = li.text.strip()
-                          break
+                    mileage_ul = car.find_element(By.CLASS_NAME, "search-vehicle-info-2")
+                    
+                    mileage_items = mileage_ul.find_elements(By.TAG_NAME, "li")
+
+                    for li in mileage_items:
+                        if "km" in li.text.lower():
+                            mileage = parse_mileage(li.text)
+                            break
+                    
+                #   for li in mileage_items:
+                #       if "km" in li.text:
+                #           mileage = li.text.strip()
+                #           break
                 except:
                     mileage = "Unknown"
 

@@ -1,180 +1,349 @@
 Make,Model,Year,Variant,Price,Location,Mileage
-Toyota,Passo,2011,X G Package,PKR 22.5 lacs,Karachi,"88,000 km"
-Toyota,Corolla 8th (E110) Generation,1996,XE,PKR 22 lacs,Lahore,"129,000 km"
-Toyota,Probox,2006,GL,PKR 25 lacs,Karachi,"190,000 km"
-Suzuki,Swift,2013,DLX 1.3,PKR 20.9 lacs,Lahore,"100,000 km"
-Hyundai,Sonata,2021,2.5,PKR 79.9 lacs,Lahore,"59,000 km"
-Toyota,Fortuner,2022,Legender,PKR 1.8 crore,Karachi,"18,000 km"
-Toyota,C-HR,2018,G-LED,PKR 79.5 lacs,Peshawar,"71,000 km"
-Daehan,Shehzore,2008,,PKR 31 lacs,Islamabad,"1,000,000 km"
-Honda,Zest,2010,Dynamic Special,PKR 18.9 lacs,Lahore,"89,000 km"
-Honda,N Wgn,2017,Custom G L Package,PKR 28.9 lacs,Karachi,"100,000 km"
-Toyota,Prado,2018,TX L Package 2.7,PKR 2.55 crore,Karachi,"56,000 km"
-Hyundai,Tucson,2025,Hybrid Signature,PKR 1.27 crore,Lahore,10 km
-MG,4,2025,,PKR 98.5 lacs,Lahore,50 km
-Toyota,Aqua,2018,S,PKR 52 lacs,Wah cantt,"131,000 km"
-Suzuki,Cultus,2008,VXRi,PKR 11.95 lacs,Chakwal,"71,124 km"
-Toyota,Corolla,2012,XLi VVTi,PKR 22 lacs,Multan,"150,000 km"
-Nissan,Dayz,2023,X,PKR 36.6 lacs,Lahore,"10,000 km"
-Suzuki,Cultus,2014,,PKR 14.8 lacs,Tando Muhammad Khan,"100,000 km"
-Toyota,Corolla,2012,GLi Automatic 1.6 VVTi,PKR 31.25 lacs,Faisalabad,"174,500 km"
-Toyota,Corolla,2009,GLi 1.3 VVTi,PKR 24.5 lacs,Bhalwal,"245,000 km"
-Suzuki,Every,2013,,PKR 20 lacs,Wah cantt,"170,000 km"
-Adam,Revo,2017,1051cc,PKR 93 lacs,Karachi,"118,883 km"
-Suzuki,Mehran,2016,VXR Euro II,PKR 10 lacs,Mirpur khas,"80,000 km"
-Honda,City 5th (GM2) Generation,2021,1.3 i-VTEC,PKR 44 lacs,Jhelum,"20,000 km"
-Toyota,Corolla,2022,Altis X Automatic 1.6,PKR 58.5 lacs,Sialkot,"36,928 km"
-Suzuki,Alto,2004,VXR (CNG),PKR 7.3 lacs,Peshawar,80 km
-Toyota,Corolla 9th (E120) Generation,2004,2.0D,PKR 19.5 lacs,Bhimber,150 km
-Suzuki,Mehran,2005,VXR,PKR 8 lacs,Jhang,"100,000 km"
-Toyota,Hilux,2011,Vigo G,PKR 35 lacs,Karachi,"200,000 km"
-Toyota,Corolla,2016,Altis Automatic 1.6,PKR 45.25 lacs,Faisalabad,"68,000 km"
-Nissan,Sentra,2005,,PKR 10.3 lacs,Islamabad,"170,000 km"
-Suzuki,Cultus,2009,VXLi,PKR 10.5 lacs,Sadiqabad,"16,540 km"
-Daehan,Shehzore,2008,,PKR 31 lacs,Islamabad,"1,000,000 km"
-Honda,Zest,2010,Dynamic Special,PKR 18.9 lacs,Lahore,"89,000 km"
-Honda,N Wgn,2017,Custom G L Package,PKR 28.9 lacs,Karachi,"100,000 km"
-Toyota,Prado,2018,TX L Package 2.7,PKR 2.55 crore,Karachi,"56,000 km"
-Hyundai,Tucson,2025,Hybrid Signature,PKR 1.27 crore,Lahore,10 km
-Toyota,Mark X,2005,,PKR 48.5 lacs,Lahore,"130,000 km"
-Mercedes,Benz E Class,2007,E 200 Kompressor Elegance,PKR 58 lacs,Lahore,"180,000 km"
-Toyota,Sienta,2019,,PKR 60 lacs,Lahore,"57,000 km"
-Honda,Civic,2019,Oriel 1.8 i-VTEC CVT,PKR 58 lacs,Lahore,"85,000 km"
-Toyota,Vitz,2019,Hybrid U 1.5,PKR 46.5 lacs,Lahore,"85,000 km"
-Toyota,Corolla Axio,2017,Hybrid 1.5,PKR 60 lacs,Karachi,"83,000 km"
-Hyundai,Sonata,2021,2.5,PKR 92 lacs,Lahore,"40,000 km"
-Suzuki,Swift,2013,DLX 1.3,PKR 20.9 lacs,Lahore,"100,000 km"
-Hyundai,Sonata,2021,2.5,PKR 79.9 lacs,Lahore,"59,000 km"
-Suzuki,Mehran,2016,VXR Euro II,PKR 10 lacs,Mirpur khas,"80,000 km"
-Honda,City 5th (GM2) Generation,2021,1.3 i-VTEC,PKR 44 lacs,Jhelum,"20,000 km"
-Toyota,Corolla,2022,Altis X Automatic 1.6,PKR 58.5 lacs,Sialkot,"36,928 km"
-Suzuki,Alto,2004,VXR (CNG),PKR 7.3 lacs,Peshawar,80 km
-Toyota,Corolla 9th (E120) Generation,2004,2.0D,PKR 19.5 lacs,Bhimber,150 km
-Suzuki,Mehran,2005,VXR,PKR 8 lacs,Jhang,"100,000 km"
-Toyota,Hilux,2011,Vigo G,PKR 35 lacs,Karachi,"200,000 km"
-Toyota,Corolla,2016,Altis Automatic 1.6,PKR 45.25 lacs,Faisalabad,"68,000 km"
-Nissan,Sentra,2005,,PKR 10.3 lacs,Islamabad,"170,000 km"
-Suzuki,Cultus,2009,VXLi,PKR 10.5 lacs,Sadiqabad,"16,540 km"
-Toyota,Fortuner,2022,Legender,PKR 1.8 crore,Karachi,"18,000 km"
-Toyota,C-HR,2018,G-LED,PKR 79.5 lacs,Peshawar,"71,000 km"
-Suzuki,Cultus,2008,VXRi,PKR 10.9 lacs,Faisalabad,"106,000 km"
-Suzuki,Mehran,2017,VX Euro II,PKR 9.5 lacs,Bahawalnagar,"78,000 km"
-Hyundai,Santro,2004,Club,PKR 9.45 lacs,Lahore,"24,320 km"
-Daihatsu,Cuore,2003,CL,PKR 7.9 lacs,Rawalpindi,"100,000 km"
-Nissan,Dayz,2018,,PKR 27 lacs,Faisalabad,"110,000 km"
-Toyota,Corolla,2017,GLi Automatic 1.3 VVTi,PKR 41 lacs,Karachi,"66,613 km"
-Suzuki,Alto,2023,VXR,PKR 26.95 lacs,Islamabad,"32,000 km"
-Suzuki,Alto,2010,VXR,PKR 12 lacs,Mian Wali,"167,000 km"
-Toyota,Land Cruiser,1987,70 series 30th anniversary edition (facelift),PKR 28 lacs,Mirpur A.K.,"1,000 km"
-Daihatsu,Mira,2012,ES,PKR 21 lacs,Karachi,"91,000 km"
-Suzuki,Alto,2025,VXR Upgraded,PKR 32 lacs,Khushab,950 km
-Hyundai,Tucson,2022,AWD A/T Ultimate,PKR 78.5 lacs,Sialkot,"32,000 km"
-Suzuki,Swift,2025,GLX CVT,PKR 50.4 lacs,Islamabad,685 km
-Isuzu,D-Max,2019,V-Cross Automatic 3.0,PKR 79.5 lacs,Karachi,"54,000 km"
-Toyota,Passo,2022,X,PKR 41.85 lacs,Karachi,"9,000 km"
-Toyota,Prado,2019,TX L Package 2.7,PKR 2.69 crore,Lahore,"63,000 km"
-Daihatsu,Move,2021,L SA 3,PKR 35.5 lacs,Lahore,"24,619 km"
-Toyota,Corolla,2014,GLi 1.3 VVTi,PKR 34.75 lacs,Lahore,"125,000 km"
-Honda,Civic,2021,Oriel 1.8 i-VTEC CVT,PKR 59.75 lacs,Karachi,"37,000 km"
-Proton,Saga,2024,1.3L Ace A/T,PKR 38 lacs,Faisalabad,"34,623 km"
-Toyota,Corolla Cross,2024,1.8 HEV X,PKR 96 lacs,Karachi,30 km
-Toyota,Corolla,2022,Altis Grande X CVT-i 1.8 Black Interior,PKR 71 lacs,Multan,"42,000 km"
-Suzuki,Alto,2012,ECO-S,PKR 19.8 lacs,Mardan,"150,000 km"
-Suzuki,Cultus,2008,VXRi,PKR 11 lacs,Swabi,"180,000 km"
-Toyota,Corolla,2019,GLi 1.3 VVTi,PKR 52 lacs,Multan,"23,950 km"
-Suzuki,Baleno,2005,JXR,PKR 10.8 lacs,Wah cantt,"394,500 km"
-Toyota,Corolla Cross,2021,Hybrid Z,PKR 78 lacs,Faisalabad,"75,000 km"
-Hyundai,Santro,2004,Exec,PKR 9.7 lacs,Mian Channu,"100,000 km"
-Honda,Civic Rebirth,2013,VTi Oriel Prosmatec 1.8 i-VTEC,PKR 33 lacs,Faisalabad,"122,000 km"
-Toyota,Corolla 9th (E120) Generation,2004,2.0D,PKR 19.4 lacs,Bhimber,"100,000 km"
-Toyota,Corolla,2001,XE-G,PKR 18.5 lacs,Islamabad,"150,000 km"
-Toyota,Hilux,2021,Revo V Automatic 2.8,PKR 1.25 crore,Karachi,"15,000 km"
-Suzuki,Bolan,2019,Cargo Van Euro ll,PKR 1.5 lacs,Karachi,"120,000 km"
-Honda,Civic,2020,Oriel 1.8 i-VTEC CVT,PKR 65 lacs,Lahore,"56,000 km"
-Honda,Zest,2010,Dynamic Special,PKR 18.9 lacs,Lahore,"89,000 km"
-Suzuki,Baleno,2005,JXR,PKR 12.95 lacs,Rawalpindi,"120,000 km"
-MG,HS,2021,Trophy,PKR 65 lacs,Lahore,"74,211 km"
-Honda,City,2006,i-DSI,PKR 17.9 lacs,Sargodha,"195,500 km"
-Honda,City,2008,i-DSI,PKR 30 lacs,Chishtian,"34,000 km"
-Honda,N Wgn,2017,Custom G L Package,PKR 28.9 lacs,Karachi,"100,000 km"
-Daihatsu,Mira,2015,L,PKR 22.75 lacs,Karachi,"83,700 km"
-Toyota,Passo,2015,X,PKR 35 lacs,Karachi,"72,000 km"
-Toyota,Prado,2018,TX L Package 2.7,PKR 2.55 crore,Karachi,"56,000 km"
-Toyota,Corolla,2015,GLi 1.3 VVTi,PKR 35 lacs,Lahore,"185,000 km"
-Hyundai,Tucson,2025,Hybrid Signature,PKR 1.27 crore,Lahore,10 km
-Toyota,Mark X,2005,,PKR 48.5 lacs,Lahore,"130,000 km"
-Toyota,Corolla,2008,Altis SR Cruisetronic 1.8,PKR 23 lacs,Karachi,"120,000 km"
-Suzuki,Cultus,2022,VXR,PKR 32.85 lacs,Multan,"27,500 km"
-Daihatsu,Hijet,2020,Cruise,PKR 24.85 lacs,Karachi,"183,992 km"
-Toyota,Land Cruiser,2007,,PKR 1.24 crore,Multan,"162,000 km"
-Suzuki,Alto,2020,VXR,PKR 23.2 lacs,Islamabad,"44,000 km"
-Honda,Civic,2022,1.5 VTEC Turbo Oriel,PKR 74.8 lacs,Lahore,"39,905 km"
-Mercedes,Benz C Class,1995,C180,PKR 27 lacs,Lahore,123 km
-Toyota,Corolla,2019,GLi Automatic 1.3 VVTi,PKR 44.5 lacs,Karachi,"114,000 km"
-Hyundai,Tucson,2025,AWD A/T Ultimate (Black Interior),PKR 92 lacs,Karachi,"7,000 km"
-Honda,BR-V,2022,i-VTEC S,PKR 51.85 lacs,Karachi,"29,000 km"
-Honda,Civic,2004,VTi Oriel Prosmatec 1.6,PKR 20 lacs,Rawalpindi,"228,000 km"
-Mazda,Carol,2022,GX,PKR 38.5 lacs,Islamabad,"67,000 km"
-Toyota,Aqua,2017,S,PKR 49.75 lacs,Faisalabad,"127,881 km"
-Mercedes,Benz E Class,2007,E 200 Kompressor Elegance,PKR 58 lacs,Lahore,"180,000 km"
-Mitsubishi,Pajero Mini,2012,Limited,PKR 21.75 lacs,Islamabad,"121,000 km"
-Toyota,Sienta,2019,,PKR 60 lacs,Lahore,"57,000 km"
-Suzuki,Alto,2022,VXL AGS,PKR 28 lacs,Kohat,"58,000 km"
-Honda,Civic,2019,Oriel 1.8 i-VTEC CVT,PKR 58 lacs,Lahore,"85,000 km"
-Toyota,C-HR,2019,S-LED,PKR 85 lacs,Karachi,"21,000 km"
-Toyota,Vitz,2019,Hybrid U 1.5,PKR 46.5 lacs,Lahore,"85,000 km"
-Toyota,Corolla,1980,XE Limited,PKR 10.2 lacs,Peshawar,999 km
-Toyota,Corolla Axio,2017,Hybrid 1.5,PKR 60 lacs,Karachi,"83,000 km"
-Hyundai,Sonata,2021,2.5,PKR 92 lacs,Lahore,"40,000 km"
-Toyota,Hilux,2014,Vigo Champ G,PKR 75 lacs,Karachi,"140,000 km"
-Suzuki,Cultus,2018,VXL,PKR 26.5 lacs,Kabirwala,"75,000 km"
-Suzuki,Wagon R,2021,Smile Hybrid G,PKR 33 lacs,Lahore,"48,000 km"
-Suzuki,Swift,2019,DLX 1.3 Navigation,PKR 26.5 lacs,Multan,"101,500 km"
-Suzuki,Mehran,2008,VXR,PKR 8.5 lacs,Lahore,"66,800 km"
-Toyota,Roomy,2021,XS,PKR 35 lacs,Gujranwala,"29,000 km"
-Toyota,Pixis Joy,2021,F G SA III,PKR 32.25 lacs,Sargodha,"15,500 km"
-Toyota,Corolla,2020,GLi 1.3 VVTi,PKR 55 lacs,Mamu kunjan,"53,000 km"
-Toyota,Corolla,2024,Altis Grande X CVT-i 1.8 Black Interior,PKR 81 lacs,Daska,"5,000 km"
-Suzuki,Ravi,2017,Euro II,PKR 13 lacs,Faisalabad,"43,000 km"
-Honda,Civic Reborn,2011,VTi Oriel Prosmatec 1.8 i-VTEC,PKR 26.3 lacs,Multan,"98,300 km"
-Suzuki,Swift,2017,DLX 1.3 Navigation,PKR 26.25 lacs,Islamabad,"73,800 km"
-Suzuki,Mehran,2018,VXR Euro II,PKR 13.7 lacs,Islamabad,"66,000 km"
-Toyota,Corolla,2012,GLi 1.3 VVTi,PKR 27 lacs,Karachi,"155,156 km"
-Suzuki,Mehran,2014,VXR Euro II,PKR 11.95 lacs,Rawalpindi,"65,000 km"
-Mercedes,Benz E Class 4th (W212) Generation,2012,E250,PKR 1.09 crore,Faisalabad,"108,088 km"
-KIA,Sportage,2021,FWD,PKR 72.5 lacs,Lahore,"20,000 km"
-Toyota,Corolla,2019,GLi Automatic 1.3 VVTi,PKR 46.25 lacs,Lahore,"120,000 km"
-Toyota,Hilux,2003,Tiger,PKR 32 lacs,Karachi,"150,000 km"
-Toyota,Aqua,2013,S,PKR 32.9 lacs,Karachi,"120,000 km"
-Toyota,Prado,2010,TX 2.7,PKR 1.54 crore,Peshawar,"92,000 km"
-KIA,Sportage,2024,FWD,PKR 85 lacs,Lahore,"35,000 km"
-Honda,Vezel,2019,Hybrid X Honda Sensing,PKR 68.5 lacs,Islamabad,"73,655 km"
-FAW,V2,2018,VCT-i,PKR 17 lacs,Faisalabad,"111,743 km"
-Honda,Civic,2016,1.8 i-VTEC CVT,PKR 44 lacs,Karachi,"63,951 km"
-Honda,Vezel,2014,Hybrid Z,PKR 48 lacs,Faisalabad,"134,949 km"
-BMW,5 Series 5th (E60) Generation,2007,520d,PKR 35 lacs,Faisalabad,"109,131 km"
-Suzuki,Mehran,2005,VXR,PKR 5.75 lacs,Karachi,"100,000 km"
-Toyota,Corolla 9th (E120) Generation,2003,2.0D,PKR 10 lacs,Burewala,"300,000 km"
-Toyota,Corolla,2008,GLi 1.3,PKR 28 lacs,Sahiwal,"144,000 km"
-Suzuki,Alto,2022,VXR,PKR 25.7 lacs,Peshawar,"52,000 km"
-Daihatsu,Tanto,2021,,PKR 38.5 lacs,Lahore,"70,000 km"
-Suzuki,Mehran,2006,VXR,PKR 6.5 lacs,Gujrat,"60,000 km"
-Suzuki,Cultus,2017,EURO II,PKR 18 lacs,Talagang,"130,000 km"
-Suzuki,Mehran,1997,VX,PKR 5.2 lacs,Swabi,"55,000 km"
-Suzuki,Mehran,2006,VXR,PKR 8.6 lacs,Rawalpindi,"89,019 km"
-Suzuki,Alto,2025,VXR Upgraded,PKR 32 lacs,Khushab,950 km
-Honda,Civic,1999,EXi,PKR 15 lacs,Mardan,"275,000 km"
-Suzuki,Alto,2010,VXR,PKR 11.8 lacs,Islamabad,"154,000 km"
-Suzuki,Mehran,2019,VXR Euro II,PKR 15.8 lacs,Lahore,"95,000 km"
-Hyundai,Tucson,2022,AWD A/T Ultimate,PKR 78.5 lacs,Sialkot,"32,000 km"
-Nissan,Clipper,2017,,PKR 19.5 lacs,Karachi,"117,000 km"
-Toyota,Yaris Sedan,2021,ATIV MT 1.3,PKR 35.5 lacs,Karachi,"91,000 km"
-FAW,X-PV,2014,Dual AC,PKR 6.75 lacs,Lahore,"786,786 km"
-Hyundai,Santro,2005,Club,PKR 10 lacs,Lahore,"155,000 km"
-Suzuki,Cultus,2007,VXR,PKR 9.5 lacs,Rawalpindi,"110,000 km"
-Suzuki,Swift,2025,GLX CVT,PKR 50.4 lacs,Islamabad,685 km
-Suzuki,Cultus,2006,VXR,PKR 9.3 lacs,Faisalabad,"36,000 km"
-Toyota,Corolla 9th (E120) Generation,2007,GLi 1.3,PKR 22.5 lacs,Islamabad,200 km
-Suzuki,Mehran,2006,VXR,PKR 6.4 lacs,Islamabad,"140,000 km"
-Toyota,Passo,2022,X,PKR 41.85 lacs,Karachi,"9,000 km"
-Isuzu,D-Max,2019,V-Cross Automatic 3.0,PKR 79.5 lacs,Karachi,"54,000 km"
+Honda,Civic 11th Generation,2022,Standard,7000000,Lahore,90912
+Honda,Vezel,2014,Hybrid Z,4200000,Karachi,130726
+Suzuki,Cultus,2015,EURO II,1630000,Lahore,120000
+Daihatsu,Hijet,2016,Special,1900000,Karachi,126780
+Honda,Life,2013,C,1850000,Lahore,113852
+Toyota,Yaris Hatchback,2021,X,4600000,Karachi,36646
+Toyota,Corolla,2022,Altis 1.6 X CVT-i,5900000,Lahore,50000
+Mercedes,Benz C Class,2021,C180 Exclusive,190000000,Lahore,48000
+KIA,Sportage,2020,AWD,6825000,Lahore,32000
+Honda,Vezel,2019,Hybrid RS Honda Sensing,6600000,Lahore,116812
+Honda,City,2016,1.3 i-VTEC,3100000,Muzaffar Gargh,128600
+Toyota,Prado,2002,TZ 3.4,8500000,Other,113000
+Suzuki,Bolan,2014,VX Euro II,1150000,Sahiwal,96000
+Honda,City 5th (GM2) Generation,2018,1.3 i-VTEC Prosmatec,3500000,Lahore,75000
+Toyota,Corolla,1983,DX,409999,Karachi,100000
+Honda,N Wgn,2021,Custom,3300000,Islamabad,12000
+Chevrolet,Joy,2008,1.0,994999,Lahore,165000
+Daihatsu,Cuore,2009,CL,900000,Multan,47000
+Toyota,Corolla,1986,,600000,Islamabad,150000
+BMW,X1,2017,sDrive18i A/T,6000000,Rawalpindi,130924
+Toyota,Fortuner,2021,2.7 V,140000000,Lahore,59000
+Honda,Civic 11th Generation,2023,RS,8840000,Islamabad,49000
+Honda,Civic,2020,1.5 RS Turbo,6600000,Karachi,59000
+Toyota,Corolla,2016,GLi 1.3 VVTi,3570000,Kot addu,85991
+Suzuki,Alto,2018,,1525000,Rawalpindi,86000
+Honda,Civic 11th Generation,2023,RS,8840000,Islamabad,49000
+Audi,e-tron,2020,55 quattro 300kW,227000000,Rawalpindi,15450
+Honda,Civic,2017,Oriel 1.8 i-VTEC CVT,4800000,Gujranwala,139811
+Toyota,Hilux,2013,Vigo Champ G,6200000,Gujranwala,136374
+Suzuki,Cultus,2007,VXR,900000,Lahore,77037
+KIA,Sportage,2022,AWD,7095000,Lahore,47000
+Toyota,Corolla,2018,XLi VVTi,3975000,Lahore,57000
+KIA,Picanto,2021,1.0 AT,2640000,Karachi,38000
+Toyota,Corolla,2017,Altis Automatic 1.6,3995000,Karachi,87000
+Toyota,Fortuner,2019,2.7 VVTi,111000000,Karachi,69000
+Suzuki,Alto,2021,VXL AGS,2690000,Lahore,60000
+Suzuki,Wagon R,2021,AGS,3200000,Lahore,24615
+Toyota,Corolla,2016,GLi 1.3 VVTi,3570000,Kot addu,85991
+Suzuki,Alto,2018,,1525000,Rawalpindi,86000
+FAW,V2,2017,VCT-i,1400000,Lahore,98000
+Toyota,Corolla,2018,GLi Automatic 1.3 VVTi,4000000,Karachi,89000
+Toyota,Corolla,2016,Altis Grande CVT-i 1.8,4849000,Sargodha,94000
+Suzuki,Bolan,1987,,450000,Peshawar,100000
+Suzuki,Every,2012,Join Turbo,1600000,Karachi,200000
+Honda,City 5th (GM2) Generation,2021,1.3 i-VTEC,4150000,Jahaniya,27000
+Toyota,Corolla Cross,2019,,4000000,Lahore,50000
+Hyundai,Tucson,2023,AWD A/T Ultimate,7975000,Lahore,31000
+MG,HS,2021,Trophy,6250000,Islamabad,60000
+Toyota,Probox,2007,F,2350000,Rawalpindi,200000
+Toyota,Corolla,2018,Altis Grande CVT-i 1.8,5500000,Sargodha,96000
+Honda,Civic,2021,Oriel 1.8 i-VTEC CVT,6175000,Karachi,55000
+Suzuki,Alto,2014,ECO-S,2650000,Rawalpindi,85000
+Daihatsu,Mira,2022,L,3550000,Karachi,16000
+Toyota,Corolla,2009,XLi VVTi,2325000,Islamabad,67000
+Toyota,Corolla,2013,GLi 1.3 VVTi,3800000,Rawalpindi,63000
+Suzuki,Alto,2022,VXL AGS,2825000,Karachi,51267
+Mercedes,Benz SLK Class,2012,,9500000,Lahore,118000
+Suzuki,Alto,2019,VXL AGS,2425000,Karachi,63000
+Toyota,Passo,2023,Moda G,4700000,Rawalpindi,35000
+Honda,Accord,2005,VTi 2.4,3300000,Lahore,152604
+Suzuki,Mehran,2009,VX,850000,Gujranwala,8986
+KIA,Sportage,2024,FWD,8000000,Karachi,6608
+Toyota,Hilux,2020,Revo V Automatic 2.8,107000000,Multan,161003
+Toyota,Aqua,2018,S,5500000,Karachi,79508
+Honda,City 5th (GM2) Generation,2020,Aspire Prosmatec 1.5 i-VTEC,4250000,Lahore,38000
+Suzuki,Alto,2021,VX,2425000,Lahore,43000
+Toyota,Corolla,2009,XLi VVTi,2325000,Islamabad,67000
+Toyota,Corolla,2017,Altis Automatic 1.6,3995000,Karachi,87000
+Toyota,Fortuner,2019,2.7 VVTi,111000000,Karachi,69000
+Suzuki,Cultus,2007,VXR,1000000,Lahore,66216
+Suzuki,Bolan,2016,VX Euro II,1210000,Lahore,40000
+Suzuki,Alto,2021,VXL AGS,2690000,Lahore,60000
+Suzuki,Wagon R,2021,AGS,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Unknown,,Unknown,,Call,,60000
+Honda,City 5th (GM2) Generation,2013,Aspire 1.5 i-VTEC,2600000,Karachi,139208
+Daihatsu,Mira,2022,X SA lll,3825000,Karachi,12000
+Haval,Jolion,2025,HEV,9600000,Faisalabad,5975
+Suzuki,Cultus,2010,VXLi,1360000,Lahore,82000
+Honda,Vezel,2014,,3500000,Karachi,114522
+Toyota,Yaris Hatchback,2022,X,4550000,Lahore,91765
+Toyota,Hilux,2025,Revo GR-S,174000000,Lahore,5200
+Toyota,Corolla,2016,GLi Automatic 1.3 VVTi,4385000,Lahore,59500
+Toyota,Aqua,2012,G,3155000,Islamabad,118000
+Honda,N One,2013,G,2250000,Lahore,133000
+Suzuki,Wagon R,2017,VXL,2075000,Rawalpindi,116000
+Honda,Vezel,2017,Hybrid RS Honda Sensing,6950000,Islamabad,40800
+Suzuki,Cultus,2021,VXR,3130000,Faisalabad,23500
+Toyota,Passo,2022,X L Package S,4210000,Rawalpindi,16000
+Mercedes,Benz SLK Class,2012,,9500000,Lahore,118000
+Honda,Civic Rebirth,2014,Oriel Prosmatec UG,3850000,Islamabad,98000
+Suzuki,Alto,2023,VXR,2725000,Lahore,10300
+Honda,Vezel,2014,Hybrid Z,3950000,Taxila,235000
+Daihatsu,Hijet,2013,Cruise,1650000,Karachi,60000
+Toyota,Surf,1992,,2625000,Islamabad,123
+Suzuki,Alto,2019,VXL AGS,2425000,Karachi,63000
+Suzuki,Wagon R,2015,,2100000,Karachi,150
+Toyota,Passo,2023,Moda G,4700000,Rawalpindi,35000
+Adam,Revo,2023,,130000000,Multan,42000
+Toyota,Corolla Hatchback,2015,,3479999,Lahore,138000
+Honda,Accord,2005,VTi 2.4,3300000,Lahore,152604
+Suzuki,Mehran,2009,VX,850000,Gujranwala,8986
+KIA,Sportage,2024,FWD,8000000,Karachi,6608
+Suzuki,Cultus,2006,VXR,1019999,Wah cantt,250000
+Toyota,Hilux,2020,Revo V Automatic 2.8,107000000,Multan,161003
+Suzuki,Mehran,2004,VX,430000,Karachi,100000
+Suzuki,Alto,2013,,2395000,Quetta,113724
+Suzuki,Wagon R,2023,VXR,1500000,Islamabad,65000
+Jeep,CJ 5,2000,,1600000,Karachi,5000
+Toyota,Aqua,2018,S,5500000,Karachi,79508
+Honda,City 5th (GM2) Generation,2020,Aspire Prosmatec 1.5 i-VTEC,4250000,Lahore,38000
+Toyota,Corolla,2015,GLi Automatic 1.3 VVTi,3820000,Lahore,85000
+Toyota,Land Cruiser,2011,AX G Selection,225000000,Karachi,153000
+Toyota,Corolla,2010,XLi VVTi,1895000,Lahore,240000
+Nissan,Dayz,2022,Highway Star S hybrid X pro pilot,3890000,Karachi,35000
+Toyota,Yaris Sedan,2023,ATIV X CVT 1.5,5700000,Karachi,12034
+Honda,Civic Rebirth,2015,Oriel Prosmatec UG,3975000,Lahore,78000
+Toyota,Corolla,2012,XLi VVTi Limited Edition,2750000,Mardan,92431
+Toyota,Yaris Sedan,2021,GLI MT 1.3,3600000,Karachi,89834
+Honda,Civic 11th Generation,2022,Oriel,7430000,Lahore,52000
+Honda,Fit,2010,1.5 Hybrid RS,2690000,Lahore,130000
+Toyota,Passo,2010,X L Package,2275000,Karachi,79000
+Prince,Pearl,2021,MT,1135000,Karachi,34000
+MG,HS,2022,Trophy,6900000,Gujranwala,35000
+Suzuki,Cultus,2004,VXR,1005000,Rawalpindi,65000
+Changan,Karvaan,2021,Plus,2100000,Vehari,100000
+Suzuki,Alto,2021,VX,2425000,Lahore,43000
+Suzuki,Alto,2012,ECO-S,2185000,Rawalpindi,127000
+Honda,City 5th (GM2) Generation,2013,Aspire 1.5 i-VTEC,2600000,Karachi,139208
+Daihatsu,Mira,2022,X SA lll,3825000,Karachi,12000
+Haval,Jolion,2025,HEV,9600000,Faisalabad,5975
+Suzuki,Cultus,2010,VXLi,1360000,Lahore,82000
+Suzuki,Mehran,2003,VX (CNG),620000,Peshawar,120000
+Honda,Vezel,2014,,3500000,Karachi,114522
+Toyota,Yaris Hatchback,2022,X,4550000,Lahore,91765
+Mazda,Scrum Wagon,2014,PX Turbo,1850000,Sukkur,120000
+Honda,City 5th (GM2) Generation,2018,1.3 i-VTEC Prosmatec,3500000,Lahore,106000
+Toyota,Hilux,2025,Revo GR-S,174000000,Lahore,5200
+Suzuki,Wagon R,2020,VXL,2625000,Muzaffar Gargh,96000
+Honda,Civic,2020,Oriel 1.8 i-VTEC CVT,5875000,Multan,67000
+Toyota,Corolla,2018,GLi 1.3 VVTi Special Edition,4800000,Lahore,63000
+Toyota,Corolla,2016,GLi Automatic 1.3 VVTi,4385000,Lahore,59500
+Suzuki,Swift,2022,GL Manual,3679999,Sialkot,25000
+Toyota,Aqua,2012,G,3155000,Islamabad,118000
+Hyundai,Elantra,2023,GLS,6500000,Lahore,36600
+Suzuki,Alto,2008,VXR (CNG),1100000,Karachi,130000
+Honda,N One,2013,G,2250000,Lahore,133000
+Honda,Civic 7th Generation (Facelift),2005,EXi,1425000,Lahore,2240
+Suzuki,Wagon R,2017,VXL,2075000,Rawalpindi,116000
+Toyota,Hilux,2019,Revo V Automatic 2.8,110000000,Karachi,90932
+Suzuki,Wagon R,2018,VXL,2150000,Karachi,89424
+Toyota,C-HR,2018,S,7000000,Lahore,71096
+KIA,Stonic,2022,EX+,4900000,Karachi,34000
+Honda,Vezel,2014,Hybrid X,4350000,Peshawar,100974
+Toyota,Corolla,2015,GLi 1.3 VVTi,2930000,Rawalpindi,126000
+Toyota,Prado,2020,TX Limited 2.7,308000000,Gujranwala,49068
+Toyota,Yaris Hatchback,2022,X,4250000,Karachi,13871
+Honda,City 5th (GM2) Generation,2019,Aspire Prosmatec 1.5 i-VTEC,4400000,Lahore,56000
+Suzuki,Cultus,2015,EURO II,1600000,Lahore,79350
+Suzuki,Cultus,2006,VXR,790000,Rawalpindi,100000
+Toyota,Hilux,2022,,178000000,Karachi,11000
+Honda,Civic 7th Generation (Facelift),2005,EXi,1425000,Lahore,2240
+Suzuki,Wagon R,2017,VXL,2075000,Rawalpindi,116000
+Suzuki,Baleno,2002,,900000,Islamabad,123
+Daihatsu,Charade,1986,DeTomaso,425000,Lahore,25555
+Suzuki,Alto,2021,VX,2450000,Mandi bahauddin,52000
+Suzuki,Cultus,2007,VXR (CNG),960000,Lahore,130000
+Toyota,Raize,2019,G,5300000,Peshawar,50000
+Toyota,Corolla,2019,GLi Automatic 1.3 VVTi,4400000,Gujranwala,60000
+Toyota,Corolla,2011,GLi 1.3 VVTi,2050000,Karachi,128000
+Honda,Vezel,2017,Hybrid RS Honda Sensing,6950000,Islamabad,40800
+Daihatsu,Move,2014,L,2150000,Karachi,125000
+Suzuki,Mehran,2008,VXR (CNG),810000,Islamabad,90000
+Toyota,Land Cruiser,2011,AX G Selection,225000000,Karachi,153000
+Toyota,Corolla,2010,XLi VVTi,1895000,Lahore,240000
+Honda,City 5th (GM2) Generation,2014,1.3 i-VTEC,2650000,Karachi,155000
+Suzuki,Alto,2009,G,1500000,Karachi,20000
+Nissan,Dayz,2022,Highway Star S hybrid X pro pilot,3890000,Karachi,35000
+Toyota,Corolla,2011,Altis SR Cruisetronic 1.8,2990000,Haripur,200000
+Honda,Civic Reborn,2011,VTi Oriel Prosmatec 1.8 i-VTEC,2825000,Lahore,82000
+Toyota,Yaris Sedan,2023,ATIV X CVT 1.5,5700000,Karachi,12034
+Honda,Civic,1999,VTi Oriel 1.6,1380000,Jhang,15466
+Toyota,Corolla,2009,Altis Cruisetronic 1.8,2590000,Karachi,109000
+Suzuki,Alto,2009,VXR,1195000,Lahore,135000
+Daihatsu,Cuore,2004,CX Automatic,950000,Lahore,80000
+Audi,A3,2017,1.2 TFSI Exclusive Line,8200000,Lahore,85000
+Toyota,Corolla,2019,Altis Automatic 1.6,4750000,Karachi,75524
+Suzuki,Alto,2020,VXR,2140000,Lahore,89000
+Haval,Jolion,2021,Top,7500000,Lahore,85000
+Honda,Civic,2021,1.5 RS Turbo,7100000,Rawalpindi,42500
+Honda,City 5th (GM2) Generation,2013,1.3 i-VTEC,3000000,Multan,106000
+KIA,Carnival,2023,Executive,144000000,Lahore,68000
+Lexus,RX Series,2012,450h,9950000,Lahore,71000
+Lexus,RX Series,2011,450h,112999999,Lahore,118000
+Honda,Civic 11th Generation,2023,RS,9390000,Lahore,11000
+Toyota,Sienta,2018,X,5550000,Lahore,28000
+Honda,N Wgn,2014,G,2700000,Lahore,137750
+Mercedes,Benz C Class,2018,C180 Exclusive,148000000,Lahore,70500
+Suzuki,Liana,2011,RXi,1350000,Lahore,141000
+Toyota,Corolla,2012,XLi VVTi Limited Edition,2750000,Mardan,92431
+Mitsubishi,Lancer,2006,GLX Automatic 1.3,1400000,Karachi,100000
+Suzuki,Wagon R,2015,Stingray T,2750000,Karachi,90000
+Toyota,Yaris Sedan,2021,GLI MT 1.3,3600000,Karachi,89834
+Toyota,Corolla,2019,Altis Automatic 1.6,5500000,Multan,43000
+Honda,Life,2007,Comfort Special,1580000,Lahore,125886
+Mercedes,Benz E Class,2004,E240,3900000,Faisalabad,146000
+Honda,Civic 11th Generation,2022,Oriel,7430000,Lahore,52000
+Toyota,Corolla 9th (E120) Generation,2006,Altis Automatic 1.8,2550000,Sargodha,190000
+Nissan,Sunny,1998,,850000,Bahawalpur,12300
+Honda,Fit,2010,1.5 Hybrid RS,2690000,Lahore,130000
+Toyota,Passo,2012,,2700000,Malakwal,98000
+Honda,City,2005,i-DSI,2220000,Islamabad,351497
+Suzuki,Mehran,2014,VXR Euro II,1450000,Islamabad,97000
+Toyota,Passo,2010,X L Package,2275000,Karachi,79000
+Suzuki,Cultus,2015,EURO II,1655000,Faisalabad,63575
+Toyota,Passo,2007,G 1.0,2075000,Abbottabad,95000
+Suzuki,Alto,2022,VXL AGS,2785000,Lahore,48000
+MG,HS,2025,Essence,102000000,Karachi,1
+Suzuki,Alto,2011,VXR,1490000,Multan,56000
+Toyota,Hilux,2019,Revo V Automatic 2.8,9900000,Lahore,92000
+Daihatsu,Rocky,2020,G,5400000,Islamabad,68000
+Prince,Pearl,2021,MT,1135000,Karachi,34000
+MG,HS,2022,Trophy,6900000,Gujranwala,35000
+Honda,Vezel,2019,Hybrid Z Honda Sensing,6950000,Karachi,54903
+Honda,Civic,2015,Oriel Prosmatec UG,3975000,Karachi,68000
+Toyota,Prius,2011,G LED Edition 1.8,3750000,Lahore,107000
+Suzuki,Swift,2019,RS 1.0,5900000,Karachi,10000
+Toyota,Crown,2018,RS Advance,Call,Lahore,37000
+Peugeot,2008,2023,Allure,5790000,Karachi,25129
+Honda,Civic,2017,Oriel 1.8 i-VTEC CVT,5000000,Karachi,32258
+Honda,N Box,2013,G,2000000,Karachi,104217
+Honda,Civic,2013,,3900000,Lahore,90000
+Suzuki,Wagon R,2015,VXR,1700000,Lahore,150502
+Haval,H6,2023,HEV,110000000,Lahore,23000
+Toyota,Yaris Hatchback,2021,G 1.0,5150000,Karachi,19557
+Prince,Pearl,2021,MT,1135000,Karachi,34000
+MG,HS,2022,Trophy,6900000,Gujranwala,35000
+Suzuki,Cultus,2019,VXL,2950000,Hyderabad,71000
+Suzuki,Mehran,2018,VXR Euro II,1420000,Rawalpindi,50000
+Toyota,Corolla,2016,GLi Automatic 1.3 VVTi,3550000,Karachi,100000
+Suzuki,Jimny,2013,JLDX,2650000,Islamabad,137000
+Suzuki,Mehran,2019,VXR Euro II,1550000,Multan,50000
+Honda,City,2012,1.3 i-VTEC,2790000,Islamabad,100000
+KIA,Sportage,2021,FWD,6425000,Rawalpindi,52500
+Changan,Alsvin,2024,1.5L DCT Lumiere,4400000,Islamabad,23000
+Suzuki,Alto,2011,,2100000,Lahore,300000
+Daewoo,Cielo,1993,,685000,Peshawar,100000
+Toyota,Hilux,2019,Revo V Automatic 2.8,110000000,Karachi,90932
+Suzuki,Wagon R,2018,VXL,2150000,Karachi,89424
+Toyota,Prado,2012,,170000000,Gujrat,212000
+Suzuki,Mehran,2017,VXR Euro II,1080000,Lahore,100000
+Toyota,C-HR,2018,S,7000000,Lahore,71096
+Suzuki,Alto,2003,VXR (CNG),620000,Lahore,98000
+KIA,Sportage,2021,AWD,6950000,Lahore,42000
+Toyota,Corolla,2006,X HID 40th Anniversary Limited 1.5,4400000,Takhtbai,190000
+Suzuki,Alto,2021,VXL AGS,2750000,Islamabad,32000
+Suzuki,Alto,2006,VXR,760000,Okara,200000
+Daihatsu,Mira,2011,ES,2099000,Peshawar,220
+Suzuki,Mehran,2017,VXR Euro II,1250000,Quetta,67000
+KIA,Stonic,2022,EX+,4900000,Karachi,34000
+Suzuki,Wagon R,2023,FA,3600000,Islamabad,21900
+Toyota,Corolla,2018,Altis Automatic 1.6,4970000,Islamabad,81000
+Suzuki,Every 6th Generation (Imported),2017,PA,2150000,Karachi,91000
+Toyota,Vitz,2003,F 1.0,2100000,Multan,230859
+Toyota,Corolla Cross,2024,1.8 HEV X,9200000,Lahore,27874
+Suzuki,Swift,2023,GLX CVT,4625000,Rawalpindi,36000
+Suzuki,Cultus,2018,VXL,2550000,Lahore,86000
+Nissan,Kicks,2020,XV Premium,Call,Lahore,35000
+Suzuki,Alto,2022,VXR AGS Upgraded,2750000,Lahore,36700
+Toyota,Land Cruiser,2019,ZX,Call,Lahore,43000
+Mitsubishi,Ek Wagon,2021,G,Call,Lahore,46000
+Suzuki,Alto,2021,VXL AGS,2680000,Karachi,28172
+Suzuki,Mehran,2017,VXR Euro II,1250000,Quetta,67000
+KIA,Stonic,2022,EX+,4900000,Karachi,34000
+Honda,Accord,2004,CL7,2350000,Lahore,90000
+Toyota,Vitz,2008,,2175000,Faisalabad,186000
+Toyota,Passo,2007,G 1.0,2250000,Islamabad,128600
+Honda,Civic,2022,Oriel,7850000,Sialkot,43000
+Honda,Vezel,2014,Hybrid X,4350000,Peshawar,100974
+Suzuki,Cultus,2020,VXR,2750000,Lahore,90000
+Honda,Civic,1999,VTi Oriel Automatic 1.6,1490000,Lahore,180000
+Suzuki,Cultus,2005,VXR,690000,Lahore,100000
+Toyota,Corolla,2015,GLi 1.3 VVTi,2930000,Rawalpindi,126000
+Nissan,Sunny,2007,,1500000,Okara,250000
+Suzuki,Wagon R,2020,VXL,2585000,Karachi,34000
+Suzuki,Liana,2006,LXi Sport,1175000,Islamabad,128000
+Honda,Civic,2019,Oriel 1.8 i-VTEC CVT,5500000,Lahore,90000
+Honda,City 5th (GM2) Generation,2018,1.3 i-VTEC Prosmatec,3700000,Karachi,80000
+Toyota,Prado,2020,TX Limited 2.7,308000000,Gujranwala,49068
+Toyota,Corolla,1986,DX Saloon,1050000,Mardan,50000
+KIA,Sportage,2020,AWD,6475000,Gujranwala,63000
+Suzuki,Liana,2010,RXi,1560000,Lahore,137000
+Toyota,Yaris Sedan,2022,ATIV X MT 1.5,5000000,Sialkot,12000
+Haval,H6,2021,High,8400000,Lahore,132000
+Toyota,Premio,2002,,2495000,Islamabad,175000
+Suzuki,Mehran,2018,VX Euro II Limited Edition,1450000,Mansehra,54000
+Toyota,Yaris Hatchback,2022,X,4250000,Karachi,13871
+Mitsubishi,Ek Wagon,2021,G,Call,Lahore,46000
+Suzuki,Alto,2021,VXL AGS,2680000,Karachi,28172
+KIA,Picanto,2022,1.0 MT,2500000,Karachi,56249
+Hyundai,Sonata,2022,2.5,9100000,Lahore,21000
+Toyota,Corolla,2009,GLi 1.3 VVTi,2890000,Rawalpindi,169000
+Suzuki,Wagon R,2014,FX,2350000,Lahore,127425
+Suzuki,Alto,2022,VXR,2650000,Islamabad,66850
+Toyota,Corolla,2010,GLi 1.3 VVTi,2750000,Sialkot,110000
+Suzuki,Swift,2011,DX 1.3,1975000,Islamabad,110000
+DFSK,Glory 580,2021,Pro,4950000,Lahore,51932
+Honda,City,2024,1.5L ASPIRE CVT,5850000,Lahore,8500
+Daihatsu,Mira,2022,L,3525000,Islamabad,14000
+Suzuki,Mehran,2018,VX Euro II Limited Edition,1450000,Mansehra,54000
+Toyota,Yaris Hatchback,2022,X,4250000,Karachi,13871
+Honda,Civic,2019,Oriel 1.8 i-VTEC CVT,5250000,Lahore,62000
+Honda,City 5th (GM2) Generation,2019,Aspire Prosmatec 1.5 i-VTEC,4400000,Lahore,56000
+Suzuki,Cultus,2015,EURO II,1600000,Lahore,79350
+Suzuki,Cultus,2006,VXR,790000,Rawalpindi,100000
+Suzuki,Mehran,2005,VX,550000,Rawalpindi,200000
+Toyota,Yaris Hatchback,2023,X,4900000,Karachi,27000
+Suzuki,Cultus,2016,Limited Edition,175000,Mansehra,40000
+Suzuki,Cultus,2006,VXR,670000,Karachi,100000
+Toyota,Corolla,2012,GLi 1.3 VVTi,3500000,Sargodha,92000
+Suzuki,Bolan,1997,VX,484999,Lahore,55000
+Toyota,Hilux,2022,,178000000,Karachi,11000
+Toyota,Corolla,2019,Altis Automatic 1.6,4750000,Karachi,75524
+Toyota,Corolla 9th (E120) Generation,2008,GLi 1.3,1875000,Sialkot,200000
+Toyota,Fortuner,2020,TRD Sportivo,145000000,Lahore,125200
+Suzuki,FX,2014,,360000,Pak pattan sharif,5000
+Toyota,Aqua,2014,S,3660000,D.G.Khan,115000
+Toyota,Corolla 8th (E110) Generation,1998,SE Limited,2300000,Attock,150000
+Toyota,Passo,2010,Plus Hana C,2130000,Karachi,90000
+Suzuki,Cultus,2007,VXR,1150000,Pir mahal,29000
+Honda,Civic,2000,EXi,1550000,Lahore,20000
+Daihatsu,Mira,2022,,3700000,Karachi,9201
+Suzuki,Alto,2020,VXR,2140000,Lahore,89000
+Honda,Civic,2017,1.8 i-VTEC CVT,4699000,Karachi,95700
