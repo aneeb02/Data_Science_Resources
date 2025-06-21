@@ -9,7 +9,7 @@ with sync_playwright() as p:
   
   page_num = 1
   all_quotes = []
-
+  
   #total 10 pages
   while page_num <=10:
     print(f"Scraping Page: {page_num}")
@@ -18,18 +18,35 @@ with sync_playwright() as p:
     soup = bs(html, 'html.parser')
     quotes = soup.find_all('div', {"class": "quote"})
     
+    
     for quote in quotes:
       q = quote.find('span', {"class": "text"}).text.strip()
       author = quote.find('small', {"class": "author"}).text.strip()
+      author_link = quote.select_one("span a")
+      author_url = "https://quotes.toscrape.com" + author_link['href'] if author_link else None
+
       tags = quote.find_all('a', {"class": "tag"})
       tags_list = []
       for tag in tags:
         tags_list.append(tag.text.strip())
       
+      
+      author_page = browser.new_page()
+      author_page.goto(author_url)
+      
+      html_ = author_page.inner_html("div.container")
+      soup_ = bs(html_, 'html.parser')
+      
+      birthday = soup_.find("span", class_="author-born-date").text.strip()
+
+      author_page.close()
+      
       all_quotes.append({
           "Quote": q,
           "Author": author,
-          "Tags": tags_list
+          "Author Birthday": birthday,
+          "Tags": tags_list,
+          "Author About Page": author_url
       })
       
     next_button = page.query_selector("li.next a")
