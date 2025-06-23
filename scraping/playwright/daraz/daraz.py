@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright, Playwright
 import time
-
+import csv
 
 def run(playwright: Playwright):
   start_url = "https://pages.daraz.pk/wow/gcp/route/daraz/pk/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fpk%2Fflashsale%2F7cdarZ6wBa&hide_h5_title=true&lzd_navbar_hidden=true&spm=a2a0e.tm80335142.bannerSliderDesktop.d_2"
@@ -84,9 +84,17 @@ def run(playwright: Playwright):
     except Exception as e:
         print("Error while clicking Load More:", e)
         break
-      
-  for item in all_products:
-      print(item,'\n')
+    
+  with open("daraz_products.csv", "w", newline="", encoding="utf-8") as csvfile:
+    fieldnames = ["Product", "Price", "Total Discount", "Rating", "Total Ratings"]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    
+    writer.writeheader()
+    for product in all_products:
+        writer.writerow(product)
+
+  print(f"\n✅ Saved {len(all_products)} products to daraz_products.csv")
+
 
 with sync_playwright() as p:
   run(p)
